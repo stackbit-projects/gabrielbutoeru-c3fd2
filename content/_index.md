@@ -5,7 +5,7 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: Hello, my name is <span class="accent-text">abriel>. I live and work in London. I'm keen on <span class="accent-text">design and photography</span>.
+  description: Hello, my name is <span class="accent-text">Gabriel</span>. I live and work in London. I'm keen on <span class="accent-text">design and photography</span>.
   image:
     url: home-hero.png
     alt: The top of mountain image
